@@ -1,0 +1,165 @@
+{"timestamp": "2025-06-23T19:04:56.562756", "event_type": "video_suspect", "details": {"brightness": 118.9455685763889, "adaptive_threshold": 116.40715017121349, "motion_score": 0.02956510416666667}}
+{"timestamp": "2025-06-23T19:04:59.560457", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T19:04:59.560565", "event_type": "ai_false_positive", "details": {}}
+{"timestamp": "2025-06-23T19:05:04.549204", "event_type": "video_suspect", "details": {"brightness": 130.17023871527778, "adaptive_threshold": 127.68549103144878, "motion_score": 0.0195234375}}
+{"timestamp": "2025-06-23T19:05:08.327243", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T19:05:08.327554", "event_type": "ai_false_positive", "details": {}}
+{"timestamp": "2025-06-23T19:05:08.348145", "event_type": "video_suspect", "details": {"brightness": 130.2086111111111, "adaptive_threshold": 129.13556236666327, "motion_score": 0.019515625}}
+{"timestamp": "2025-06-23T19:05:11.618926", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T19:05:11.619247", "event_type": "ai_false_positive", "details": {}}
+{"timestamp": "2025-06-23T19:06:56.740737", "event_type": "video_suspect", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889}}
+{"timestamp": "2025-06-23T19:06:58.101855", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T19:06:58.102184", "event_type": "ai_false_positive", "details": {}}
+{"timestamp": "2025-06-23T19:06:58.334579", "event_type": "video_suspect", "details": {"brightness": 139.37384548611112, "adaptive_threshold": 138.93131962536253, "motion_score": 0.2976302083333333}}
+{"timestamp": "2025-06-23T19:06:59.201588", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T19:06:59.201916", "event_type": "ai_false_positive", "details": {}}
+{"timestamp": "2025-06-23T19:06:59.827327", "event_type": "video_suspect", "details": {"brightness": 194.37078993055556, "adaptive_threshold": 189.25343421155102, "motion_score": 0.3043958333333333}}
+{"timestamp": "2025-06-23T19:07:05.093616", "event_type": "ai_error", "details": {"status_code": 500, "text": "{\n    \"error\": {\n        \"message\": \"Internal server error\",\n        \"type\": \"auth_subrequest_error\",\n        \"param\": null,\n        \"code\": \"internal_error\"\n    }\n}\n"}}
+{"timestamp": "2025-06-23T19:07:05.094752", "event_type": "ai_false_positive", "details": {}}
+{"timestamp": "2025-06-23T19:07:05.114029", "event_type": "video_suspect", "details": {"brightness": 217.9737673611111, "adaptive_threshold": 202.01590631145953, "motion_score": 0.3806788194444445}}
+{"timestamp": "2025-06-23T19:07:06.272406", "event_type": "ai_analysis", "details": {"answer": "i'm sorry, i can't determine the contents of the", "flagged": false}}
+{"timestamp": "2025-06-23T19:07:06.272723", "event_type": "ai_false_positive", "details": {}}
+{"timestamp": "2025-06-23T19:10:05.981067", "event_type": "video_suspect", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 19:10:05"}}
+{"timestamp": "2025-06-23T19:10:06.099483", "event_type": "video_suspect", "details": {"brightness": 139.37384548611112, "adaptive_threshold": 138.93131962536253, "motion_score": 0.2976302083333333, "timestamp": "2025-06-23 19:10:06"}}
+{"timestamp": "2025-06-23T19:10:06.685256", "event_type": "video_suspect", "details": {"brightness": 194.37078993055556, "adaptive_threshold": 189.25343421155102, "motion_score": 0.3043958333333333, "timestamp": "2025-06-23 19:10:06"}}
+{"timestamp": "2025-06-23T19:10:06.697088", "event_type": "video_suspect", "details": {"brightness": 217.9737673611111, "adaptive_threshold": 202.01590631145953, "motion_score": 0.3806788194444445, "timestamp": "2025-06-23 19:10:06"}}
+{"timestamp": "2025-06-23T19:14:00.371133", "event_type": "video_suspect", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 19:14:00"}}
+{"timestamp": "2025-06-23T19:14:01.864964", "event_type": "ai_analysis", "details": {"answer": "i'm sorry, i can't help with that.", "flagged": false}}
+{"timestamp": "2025-06-23T19:14:01.865283", "event_type": "ai_false_positive", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 19:14:00"}}
+{"timestamp": "2025-06-23T19:14:02.946807", "event_type": "video_suspect", "details": {"brightness": 139.37384548611112, "adaptive_threshold": 138.93131962536253, "motion_score": 0.2976302083333333, "timestamp": "2025-06-23 19:14:02"}}
+{"timestamp": "2025-06-23T19:14:03.621540", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T19:14:03.621862", "event_type": "ai_false_positive", "details": {"brightness": 139.37384548611112, "adaptive_threshold": 138.93131962536253, "motion_score": 0.2976302083333333, "timestamp": "2025-06-23 19:14:02"}}
+{"timestamp": "2025-06-23T19:14:10.821020", "event_type": "video_suspect", "details": {"brightness": 194.37078993055556, "adaptive_threshold": 189.25343421155102, "motion_score": 0.3043958333333333, "timestamp": "2025-06-23 19:14:10"}}
+{"timestamp": "2025-06-23T19:14:10.969186", "event_type": "video_suspect", "details": {"brightness": 217.9737673611111, "adaptive_threshold": 202.01590631145953, "motion_score": 0.3806788194444445, "timestamp": "2025-06-23 19:14:10"}}
+{"timestamp": "2025-06-23T19:14:12.101363", "event_type": "ai_analysis", "details": {"answer": "yes.", "flagged": true}}
+{"timestamp": "2025-06-23T19:14:12.101648", "event_type": "ai_true_positive", "details": {"brightness": 194.37078993055556, "adaptive_threshold": 189.25343421155102, "motion_score": 0.3043958333333333, "timestamp": "2025-06-23 19:14:10"}}
+{"timestamp": "2025-06-23T19:14:12.101788", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T19:19:28.733349", "event_type": "video_suspect", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 19:19:28"}}
+{"timestamp": "2025-06-23T19:19:29.679018", "event_type": "ai_analysis", "details": {"answer": "i can't tell.", "flagged": false}}
+{"timestamp": "2025-06-23T19:19:29.679152", "event_type": "ai_false_positive", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 19:19:28"}}
+{"timestamp": "2025-06-23T19:19:31.291343", "event_type": "video_suspect", "details": {"brightness": 139.37384548611112, "adaptive_threshold": 138.93131962536253, "motion_score": 0.2976302083333333, "timestamp": "2025-06-23 19:19:31"}}
+{"timestamp": "2025-06-23T19:19:32.826206", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T19:19:32.826513", "event_type": "ai_false_positive", "details": {"brightness": 139.37384548611112, "adaptive_threshold": 138.93131962536253, "motion_score": 0.2976302083333333, "timestamp": "2025-06-23 19:19:31"}}
+{"timestamp": "2025-06-23T19:19:39.091309", "event_type": "video_suspect", "details": {"brightness": 194.37078993055556, "adaptive_threshold": 189.25343421155102, "motion_score": 0.3043958333333333, "timestamp": "2025-06-23 19:19:39"}}
+{"timestamp": "2025-06-23T19:19:39.235931", "event_type": "video_suspect", "details": {"brightness": 217.9737673611111, "adaptive_threshold": 202.01590631145953, "motion_score": 0.3806788194444445, "timestamp": "2025-06-23 19:19:39"}}
+{"timestamp": "2025-06-23T19:19:39.748708", "event_type": "ai_analysis", "details": {"answer": "yes.", "flagged": true}}
+{"timestamp": "2025-06-23T19:19:39.748803", "event_type": "ai_true_positive", "details": {"brightness": 194.37078993055556, "adaptive_threshold": 189.25343421155102, "motion_score": 0.3043958333333333, "timestamp": "2025-06-23 19:19:39"}}
+{"timestamp": "2025-06-23T19:19:39.748847", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T19:44:26.772662", "event_type": "audio_explosion", "details": {"audio_time": 1.0, "volume": 0.0022761777509003878, "spectral_energy": 108267.046875}}
+{"timestamp": "2025-06-23T19:44:26.772986", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T19:44:30.782556", "event_type": "audio_explosion", "details": {"audio_time": 5.0, "volume": 0.002354581141844392, "spectral_energy": 124455.7734375}}
+{"timestamp": "2025-06-23T19:44:30.782843", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T19:44:38.800422", "event_type": "audio_explosion", "details": {"audio_time": 13.0, "volume": 0.0024222207721322775, "spectral_energy": 152686.625}}
+{"timestamp": "2025-06-23T19:44:38.800716", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T19:44:41.807419", "event_type": "audio_explosion", "details": {"audio_time": 16.0, "volume": 0.0028017833828926086, "spectral_energy": 120914.21875}}
+{"timestamp": "2025-06-23T19:44:41.807705", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T19:44:47.822353", "event_type": "audio_explosion", "details": {"audio_time": 22.0, "volume": 0.00291579426266253, "spectral_energy": 149095.5}}
+{"timestamp": "2025-06-23T19:44:47.822684", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T19:44:48.825346", "event_type": "audio_explosion", "details": {"audio_time": 23.0, "volume": 0.002690379275009036, "spectral_energy": 130581.8125}}
+{"timestamp": "2025-06-23T19:44:48.825671", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T19:44:49.827389", "event_type": "audio_explosion", "details": {"audio_time": 24.0, "volume": 0.002780769718810916, "spectral_energy": 116625.890625}}
+{"timestamp": "2025-06-23T19:44:49.827667", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T19:44:50.829523", "event_type": "audio_explosion", "details": {"audio_time": 25.0, "volume": 0.002026590285822749, "spectral_energy": 87856.28125}}
+{"timestamp": "2025-06-23T19:44:50.829835", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T19:46:25.012591", "event_type": "video_suspect", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 19:46:25"}}
+{"timestamp": "2025-06-23T19:46:26.333832", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T19:46:26.334155", "event_type": "ai_false_positive", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 19:46:25"}}
+{"timestamp": "2025-06-23T19:46:27.622357", "event_type": "video_suspect", "details": {"brightness": 139.37384548611112, "adaptive_threshold": 138.93131962536253, "motion_score": 0.2976302083333333, "timestamp": "2025-06-23 19:46:27"}}
+{"timestamp": "2025-06-23T19:46:29.819775", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T19:46:29.820143", "event_type": "ai_false_positive", "details": {"brightness": 139.37384548611112, "adaptive_threshold": 138.93131962536253, "motion_score": 0.2976302083333333, "timestamp": "2025-06-23 19:46:27"}}
+{"timestamp": "2025-06-23T19:46:35.567959", "event_type": "video_suspect", "details": {"brightness": 194.37078993055556, "adaptive_threshold": 189.25343421155102, "motion_score": 0.3043958333333333, "timestamp": "2025-06-23 19:46:35"}}
+{"timestamp": "2025-06-23T19:46:35.717625", "event_type": "video_suspect", "details": {"brightness": 217.9737673611111, "adaptive_threshold": 202.01590631145953, "motion_score": 0.3806788194444445, "timestamp": "2025-06-23 19:46:35"}}
+{"timestamp": "2025-06-23T19:53:02.537472", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T19:53:05.639261", "event_type": "video_suspect", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 19:53:05"}}
+{"timestamp": "2025-06-23T19:53:07.382584", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T19:53:07.382901", "event_type": "ai_false_positive", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 19:53:05"}}
+{"timestamp": "2025-06-23T19:53:08.216849", "event_type": "video_suspect", "details": {"brightness": 139.37384548611112, "adaptive_threshold": 138.93131962536253, "motion_score": 0.2976302083333333, "timestamp": "2025-06-23 19:53:08"}}
+{"timestamp": "2025-06-23T19:53:24.531252", "event_type": "video_suspect", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 19:53:24"}}
+{"timestamp": "2025-06-23T19:53:25.267764", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T19:53:25.267875", "event_type": "ai_false_positive", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 19:53:24"}}
+{"timestamp": "2025-06-23T19:53:27.099962", "event_type": "video_suspect", "details": {"brightness": 139.37384548611112, "adaptive_threshold": 138.93131962536253, "motion_score": 0.2976302083333333, "timestamp": "2025-06-23 19:53:27"}}
+{"timestamp": "2025-06-23T19:53:27.772917", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T19:53:27.773263", "event_type": "ai_false_positive", "details": {"brightness": 139.37384548611112, "adaptive_threshold": 138.93131962536253, "motion_score": 0.2976302083333333, "timestamp": "2025-06-23 19:53:27"}}
+{"timestamp": "2025-06-23T19:55:01.152746", "event_type": "video_suspect", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 19:55:01"}}
+{"timestamp": "2025-06-23T19:55:02.032272", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T19:55:02.032468", "event_type": "ai_false_positive", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 19:55:01"}}
+{"timestamp": "2025-06-23T19:55:03.776551", "event_type": "video_suspect", "details": {"brightness": 139.37384548611112, "adaptive_threshold": 138.93131962536253, "motion_score": 0.2976302083333333, "timestamp": "2025-06-23 19:55:03"}}
+{"timestamp": "2025-06-23T19:55:04.628349", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T19:55:04.628735", "event_type": "ai_false_positive", "details": {"brightness": 139.37384548611112, "adaptive_threshold": 138.93131962536253, "motion_score": 0.2976302083333333, "timestamp": "2025-06-23 19:55:03"}}
+{"timestamp": "2025-06-23T19:55:11.671891", "event_type": "video_suspect", "details": {"brightness": 194.37078993055556, "adaptive_threshold": 189.25343421155102, "motion_score": 0.3043958333333333, "timestamp": "2025-06-23 19:55:11"}}
+{"timestamp": "2025-06-23T19:55:11.820220", "event_type": "video_suspect", "details": {"brightness": 217.9737673611111, "adaptive_threshold": 202.01590631145953, "motion_score": 0.3806788194444445, "timestamp": "2025-06-23 19:55:11"}}
+{"timestamp": "2025-06-23T19:55:12.331794", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T19:55:12.332132", "event_type": "ai_false_positive", "details": {"brightness": 194.37078993055556, "adaptive_threshold": 189.25343421155102, "motion_score": 0.3043958333333333, "timestamp": "2025-06-23 19:55:11"}}
+{"timestamp": "2025-06-23T19:58:22.110239", "event_type": "audio_explosion", "details": {"audio_time": 13.0, "volume": 0.0024222207721322775, "mean": 0.0009213801240548491, "std": 0.0007745561888441443, "spectral_energy": 152686.625}}
+{"timestamp": "2025-06-23T19:58:22.110570", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T19:58:31.133571", "event_type": "audio_explosion", "details": {"audio_time": 22.0, "volume": 0.00291579426266253, "mean": 0.0010589944431558251, "std": 0.001060748239979148, "spectral_energy": 149095.5}}
+{"timestamp": "2025-06-23T19:58:31.133869", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T20:00:20.705729", "event_type": "video_suspect", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 20:00:20"}}
+{"timestamp": "2025-06-23T20:00:21.846845", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T20:00:21.847175", "event_type": "ai_false_positive", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 20:00:20"}}
+{"timestamp": "2025-06-23T20:00:23.280146", "event_type": "video_suspect", "details": {"brightness": 139.37384548611112, "adaptive_threshold": 138.93131962536253, "motion_score": 0.2976302083333333, "timestamp": "2025-06-23 20:00:23"}}
+{"timestamp": "2025-06-23T20:00:24.115673", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T20:00:24.115789", "event_type": "ai_false_positive", "details": {"brightness": 139.37384548611112, "adaptive_threshold": 138.93131962536253, "motion_score": 0.2976302083333333, "timestamp": "2025-06-23 20:00:23"}}
+{"timestamp": "2025-06-23T20:00:31.083817", "event_type": "video_suspect", "details": {"brightness": 194.37078993055556, "adaptive_threshold": 189.25343421155102, "motion_score": 0.3043958333333333, "timestamp": "2025-06-23 20:00:31"}}
+{"timestamp": "2025-06-23T20:00:31.229116", "event_type": "video_suspect", "details": {"brightness": 217.9737673611111, "adaptive_threshold": 202.01590631145953, "motion_score": 0.3806788194444445, "timestamp": "2025-06-23 20:00:31"}}
+{"timestamp": "2025-06-23T20:00:32.038660", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T20:00:32.038799", "event_type": "ai_false_positive", "details": {"brightness": 194.37078993055556, "adaptive_threshold": 189.25343421155102, "motion_score": 0.3043958333333333, "timestamp": "2025-06-23 20:00:31"}}
+{"timestamp": "2025-06-23T20:01:13.395243", "event_type": "video_suspect", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 20:01:13"}}
+{"timestamp": "2025-06-23T20:01:14.275490", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T20:01:14.275659", "event_type": "ai_false_positive", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 20:01:13"}}
+{"timestamp": "2025-06-23T20:01:15.911249", "event_type": "video_suspect", "details": {"brightness": 139.37384548611112, "adaptive_threshold": 138.93131962536253, "motion_score": 0.2976302083333333, "timestamp": "2025-06-23 20:01:15"}}
+{"timestamp": "2025-06-23T20:01:16.742165", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T20:01:16.742277", "event_type": "ai_false_positive", "details": {"brightness": 139.37384548611112, "adaptive_threshold": 138.93131962536253, "motion_score": 0.2976302083333333, "timestamp": "2025-06-23 20:01:15"}}
+{"timestamp": "2025-06-23T20:01:37.124926", "event_type": "video_suspect", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 20:01:37"}}
+{"timestamp": "2025-06-23T20:01:37.797749", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T20:01:37.798084", "event_type": "ai_false_positive", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 20:01:37"}}
+{"timestamp": "2025-06-23T20:01:39.707408", "event_type": "video_suspect", "details": {"brightness": 139.37384548611112, "adaptive_threshold": 138.93131962536253, "motion_score": 0.2976302083333333, "timestamp": "2025-06-23 20:01:39"}}
+{"timestamp": "2025-06-23T20:01:49.452376", "event_type": "video_suspect", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 20:01:49"}}
+{"timestamp": "2025-06-23T20:01:50.466061", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T20:01:50.466387", "event_type": "ai_false_positive", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 20:01:49"}}
+{"timestamp": "2025-06-23T20:02:01.002671", "event_type": "video_suspect", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 20:02:01"}}
+{"timestamp": "2025-06-23T20:02:01.928973", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T20:02:01.929353", "event_type": "ai_false_positive", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 20:02:01"}}
+{"timestamp": "2025-06-23T20:02:10.988513", "event_type": "video_suspect", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 20:02:10"}}
+{"timestamp": "2025-06-23T20:02:11.852872", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T20:02:11.853201", "event_type": "ai_false_positive", "details": {"brightness": 136.33753472222222, "adaptive_threshold": 134.48401318221582, "motion_score": 0.4695763888888889, "timestamp": "2025-06-23 20:02:10"}}
+{"timestamp": "2025-06-23T20:03:47.394324", "event_type": "audio_explosion", "details": {"audio_time": 5.0, "volume": 0.002354581141844392, "mean": 0.0015508111100643873, "std": 0.0007733904058113694, "spectral_energy": 124455.7734375}}
+{"timestamp": "2025-06-23T20:03:47.394663", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T20:03:54.411477", "event_type": "audio_explosion", "details": {"audio_time": 12.0, "volume": 0.0007298791315406561, "mean": 0.0004933589952997863, "std": 0.00021900403953623027, "spectral_energy": 36086.58984375}}
+{"timestamp": "2025-06-23T20:03:54.412577", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T20:03:55.415654", "event_type": "audio_explosion", "details": {"audio_time": 13.0, "volume": 0.0024222207721322775, "mean": 0.0009213801240548491, "std": 0.0007745561888441443, "spectral_energy": 152686.625}}
+{"timestamp": "2025-06-23T20:03:55.415933", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T20:03:58.423236", "event_type": "audio_explosion", "details": {"audio_time": 16.0, "volume": 0.0028017833828926086, "mean": 0.001441700616851449, "std": 0.0010241633281111717, "spectral_energy": 120914.21875}}
+{"timestamp": "2025-06-23T20:03:58.423528", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T20:04:04.435701", "event_type": "audio_explosion", "details": {"audio_time": 22.0, "volume": 0.00291579426266253, "mean": 0.0010589944431558251, "std": 0.001060748239979148, "spectral_energy": 149095.5}}
+{"timestamp": "2025-06-23T20:04:04.435991", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T20:04:05.438752", "event_type": "audio_explosion", "details": {"audio_time": 23.0, "volume": 0.002690379275009036, "mean": 0.0014567712787538767, "std": 0.0012139533646404743, "spectral_energy": 130581.8125}}
+{"timestamp": "2025-06-23T20:04:05.439047", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T20:06:37.630202", "event_type": "audio_explosion", "details": {"audio_time": 4.0, "volume": 0.00310784881003201, "mean": 0.0010567173594608903, "std": 0.001106133102439344, "spectral_energy": 154576.765625}}
+{"timestamp": "2025-06-23T20:06:37.630518", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T20:06:54.714298", "event_type": "video_suspect", "details": {"brightness": 135.7147439236111, "adaptive_threshold": 135.3091163173963, "motion_score": 0.12310850694444445, "timestamp": "2025-06-23 20:06:54"}}
+{"timestamp": "2025-06-23T20:06:54.860400", "event_type": "video_suspect", "details": {"brightness": 135.7313064236111, "adaptive_threshold": 135.60013327398426, "motion_score": 0.12299479166666664, "timestamp": "2025-06-23 20:06:54"}}
+{"timestamp": "2025-06-23T20:06:55.779791", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T20:06:55.779988", "event_type": "ai_false_positive", "details": {"brightness": 135.7147439236111, "adaptive_threshold": 135.3091163173963, "motion_score": 0.12310850694444445, "timestamp": "2025-06-23 20:06:54"}}
+{"timestamp": "2025-06-23T20:06:57.440656", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T20:06:57.440978", "event_type": "ai_false_positive", "details": {"brightness": 135.7313064236111, "adaptive_threshold": 135.60013327398426, "motion_score": 0.12299479166666664, "timestamp": "2025-06-23 20:06:54"}}
+{"timestamp": "2025-06-23T20:08:47.943171", "event_type": "audio_explosion", "details": {"audio_time": 4.0, "volume": 0.00310784881003201, "mean": 0.0010567173594608903, "std": 0.001106133102439344, "spectral_energy": 154576.765625}}
+{"timestamp": "2025-06-23T20:08:47.943572", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T20:08:48.945710", "event_type": "audio_explosion", "details": {"audio_time": 5.0, "volume": 0.0024587931111454964, "mean": 0.0015446051256731153, "std": 0.0010786264901980758, "spectral_energy": 58045.8515625}}
+{"timestamp": "2025-06-23T20:08:48.946028", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T20:09:05.077059", "event_type": "video_suspect", "details": {"brightness": 135.7147439236111, "adaptive_threshold": 135.3091163173963, "motion_score": 0.12310850694444445, "timestamp": "2025-06-23 20:09:05"}}
+{"timestamp": "2025-06-23T20:09:05.223720", "event_type": "video_suspect", "details": {"brightness": 135.7313064236111, "adaptive_threshold": 135.60013327398426, "motion_score": 0.12299479166666664, "timestamp": "2025-06-23 20:09:05"}}
+{"timestamp": "2025-06-23T20:09:06.599436", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T20:09:06.599786", "event_type": "ai_false_positive", "details": {"brightness": 135.7147439236111, "adaptive_threshold": 135.3091163173963, "motion_score": 0.12310850694444445, "timestamp": "2025-06-23 20:09:05"}}
+{"timestamp": "2025-06-23T20:09:08.813616", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T20:09:08.813941", "event_type": "ai_false_positive", "details": {"brightness": 135.7313064236111, "adaptive_threshold": 135.60013327398426, "motion_score": 0.12299479166666664, "timestamp": "2025-06-23 20:09:05"}}
+{"timestamp": "2025-06-23T21:25:05.813708", "event_type": "audio_explosion", "details": {"audio_time": 4.0, "volume": 0.00310784881003201, "mean": 0.0010567173594608903, "std": 0.001106133102439344, "spectral_energy": 154576.765625}}
+{"timestamp": "2025-06-23T21:25:05.814049", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T21:25:06.816545", "event_type": "audio_explosion", "details": {"audio_time": 5.0, "volume": 0.0024587931111454964, "mean": 0.0015446051256731153, "std": 0.0010786264901980758, "spectral_energy": 58045.8515625}}
+{"timestamp": "2025-06-23T21:25:06.816757", "event_type": "alert_sent", "details": {"message": "Missile/rocket detected!"}}
+{"timestamp": "2025-06-23T21:25:23.406871", "event_type": "video_suspect", "details": {"brightness": 135.7147439236111, "adaptive_threshold": 135.3091163173963, "motion_score": 0.12310850694444445, "timestamp": "2025-06-23 21:25:23"}}
+{"timestamp": "2025-06-23T21:25:23.557263", "event_type": "video_suspect", "details": {"brightness": 135.7313064236111, "adaptive_threshold": 135.60013327398426, "motion_score": 0.12299479166666664, "timestamp": "2025-06-23 21:25:23"}}
+{"timestamp": "2025-06-23T21:25:26.043520", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T21:25:26.043711", "event_type": "ai_false_positive", "details": {"brightness": 135.7147439236111, "adaptive_threshold": 135.3091163173963, "motion_score": 0.12310850694444445, "timestamp": "2025-06-23 21:25:23"}}
+{"timestamp": "2025-06-23T21:25:28.029567", "event_type": "ai_analysis", "details": {"answer": "no.", "flagged": false}}
+{"timestamp": "2025-06-23T21:25:28.029889", "event_type": "ai_false_positive", "details": {"brightness": 135.7313064236111, "adaptive_threshold": 135.60013327398426, "motion_score": 0.12299479166666664, "timestamp": "2025-06-23 21:25:23"}}
