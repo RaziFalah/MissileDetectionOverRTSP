@@ -23,7 +23,7 @@ A frame will be saved in this folder if all the following conditions are met:
 
 ## 🗂 Current test opearations
 
-<a href="https://github.com/RaziFalah/MissileDetectionOverRTSP/blob/main/Tests/OperationDemoAlpha.md"> - **Operation demo alpha** audio test, ground explosion. </a>
+**Files are labled in numbers and actual results of the program (false positive or positive)**
 
 
 ---
