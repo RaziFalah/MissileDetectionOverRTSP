@@ -1,6 +1,13 @@
+Version beta 0.2 phase 1
+
+> [!Warning]
+> This version is currently work in-progress and might not be stable.
+
+[For more stable versions see documentation here](https://github.com/RaziFalah/MissileDetectionOverRTSP?tab=readme-ov-file#-previous-versions) 
+
 # 🚀 Missile Detection Over RTSP (Beta 0.2) Phase 1
 
-A real-time missile/rocket detection system using RTSP streams or video files. This project combines image analysis, audio signal processing, and OpenAI's GPT-4o vision capabilities to detect potential missile launches or explosions.
+A real-time missile/rocket detection system using RTSP streams or video files. This project combines image analysis, audio signal processing, and OpenAI's GPT-4o vision capabilities to detect potential missile launches or explosions. 
 
 ---
 
@@ -153,4 +160,5 @@ MissileDetectionRTSP/
 ## 📦 Previous versions
 
 [- **BETA 0.0 PHASE 1** </a>](https://github.com/RaziFalah/MissileDetectionOverRTSP/tree/beta0.0phase1)
-
+> [!Note]
+> Stable but highly limited.
