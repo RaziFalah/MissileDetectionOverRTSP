@@ -58,4 +58,13 @@
 ```
 ---
 
+---
+
+## 🗂 Current test opearations
+
+<a href="https://github.com/RaziFalah/MissileDetectionOverRTSP/blob/main/Tests/OperationDemoAlpha.md"> - **Operation demo alpha** audio test, ground explosion. </a>
+
+
+---
+
 Got any additional data? Could be even more helpful.
