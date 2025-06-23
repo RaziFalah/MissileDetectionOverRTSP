@@ -1,4 +1,4 @@
-# 🚀 Missile Detection Over RTSP (Beta 0.0) Phase 1
+# 🚀 Missile Detection Over RTSP (Beta 0.2) Phase 1
 
 A real-time missile/rocket detection system using RTSP streams or video files. This project combines image analysis, audio signal processing, and OpenAI's GPT-4o vision capabilities to detect potential missile launches or explosions.
 
@@ -16,16 +16,28 @@ Once sufficient testing and evaluation are completed, the project will transitio
 
 
 ---
-
 ## 🔍 Key Features
 
 - 🎥 **Real-time RTSP camera support**  
-- 📼 **Offline video analysis mode** for testing purposes  
-- 💡 **Brightness anomaly detection** for identifying flashes/explosions  
-- 🎧 **Audio spike detection** using `ffmpeg` and `numpy`  
-- 🧠 **AI-enhanced image verification** via OpenAI Vision (GPT-4o)  
-- 📁 **Automatic logging** of flagged frames with timestamped image storage  
-- ⚠️ **Threaded audio and video processing** for live monitoring  
+  Stream and analyze live video feeds directly from RTSP cameras.
+
+- 📼 **Offline video analysis mode**  
+  Test and debug detection algorithms using local video files.
+
+- 💡 **Brightness anomaly detection**  
+  Identify sudden flashes or explosions by monitoring frame brightness and adaptive thresholds.
+
+- 🎧 **Audio spike detection**  
+  Detect explosion-like events using audio volume and spectral energy analysis with `ffmpeg` and `numpy`.
+
+- 🧠 **AI-enhanced image verification**  
+  Use OpenAI Vision (GPT-4o) to verify and classify suspect frames for higher accuracy.
+
+- 📁 **Automatic logging**  
+  Log all detection events and save flagged frames with precise timestamps for later review.
+
+- ⚠️ **Threaded audio and video processing**  
+  Ensure smooth, real-time monitoring by running audio and video analysis in parallel threads.
 
 ---
 
@@ -61,12 +73,13 @@ The developer take no responsibility for any damage, data loss, misuse, or unint
 
 ## ⚙️ How It Works
 
-1. **Video Source**: Reads either from RTSP stream or a local video file.
-2. **Image Analysis**: Detects sudden brightness spikes (e.g., missile flares or explosions).
-3. **Audio Analysis**: Listens for loud noises (e.g., explosions) using real-time audio decoding via `ffmpeg`.
-4. **AI Verification**: Sends suspected frames to GPT-4o with a visual prompt:  
-   _"Is there a missile or rocket in this night sky image?"_
-5. **Alerting & Logging**: Flags confirmed images, activates alert function, and saves evidence.
+1. **Video Source**: Reads either from an RTSP stream or a local video file for flexible deployment and testing.
+2. **Image Analysis**: Continuously monitors video frames for sudden brightness spikes, which may indicate missile launches, flares, or explosions.
+3. **Audio Analysis**: Listens for loud noises and explosion-like audio spikes using real-time audio decoding and spectral analysis via `ffmpeg` and `numpy`.
+4. **AI Verification**: Sends suspected frames to GPT-4o with the visual prompt:  
+   _"Is there a missile or rocket in this night sky image?"_  
+   This step reduces false positives by leveraging advanced AI vision capabilities.
+5. **Alerting & Logging**: Flags and saves confirmed images, activates the alert function, and logs all detection events with detailed evidence for later review.
 
 ---
 
@@ -120,15 +133,24 @@ For each test run, create a file in the `/Tests/` folder using the following for
 ---
 
 ## 📂 Project Structure
-Version: beta 0.0
+Version: beta 0.2
 ```
 MissileDetectionRTSP/
 ├── main.py                # Main detection script | currently extremely beta, heavy dependence on ai models.
 ├── CamSnppits.py          # Saves random camera snippets from the RTSP source, used for advanced independent testing and fine-tuning.
 ├── /Tests/                # For manually storing test results and metadata.
 ├── /Flaged/               # Saved flagged image frames by the system.
-└── /AlertSystem/          # The ESP32 Framework for outputting real-time alerts.
+├── /AlertSystem/          # The ESP32 Framework for outputting real-time alerts.
+├── detection_log.jsonl    # logs with timestamps.
+├── graph_spike.py         # simulates audio spikes and place them into a graph for more readable data
+├── graph_thershold.py     # simulates audio thereshold in accordance to the video and place them into a graph for more readable data
+└── token.env
 ```
 
 
 ---
+
+## 📦 Previous versions
+
+[<a href="https://github.com/RaziFalah/MissileDetectionOverRTSP/releases/tag/beta0.0phase1"> - **BETA 0.0 PHASE 1** </a>](https://github.com/RaziFalah/MissileDetectionOverRTSP/tree/beta0.0phase1)
+
