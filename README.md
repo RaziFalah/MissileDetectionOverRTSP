@@ -152,5 +152,5 @@ MissileDetectionRTSP/
 
 ## 📦 Previous versions
 
-[<a href="https://github.com/RaziFalah/MissileDetectionOverRTSP/releases/tag/beta0.0phase1"> - **BETA 0.0 PHASE 1** </a>](https://github.com/RaziFalah/MissileDetectionOverRTSP/tree/beta0.0phase1)
+[- **BETA 0.0 PHASE 1** </a>](https://github.com/RaziFalah/MissileDetectionOverRTSP/tree/beta0.0phase1)
 
