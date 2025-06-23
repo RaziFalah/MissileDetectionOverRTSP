@@ -1,3 +1,5 @@
+Version: beta 0.0 phase 1
+
 # Explosion Detection Test Report
 
 ## 📁 Tested Media
@@ -72,7 +74,12 @@ Tip: Images did not load? Use links instead.
 - **Expected detections estimated:** `NOT CALCULATED`
 - **Correct positive detections:** `0`
 - **False positive detections:** `3`
-- **Success rate:** `10%` ➤ **TEST FAILED**
+- **Success rate:** `10%` ➤ 
+
+```diff
+- TEST FAILED, Program disqualified.
+```
+
 
 ---
 
@@ -80,3 +87,8 @@ Tip: Images did not load? Use links instead.
 
 Although the program technically responded with the correct alerts, they were **not** based on actual explosion recognition. Instead, it flagged brightness spikes that were then **incorrectly** labeled as explosions by the AI. The following images were flagged as positive but were **false positives**:  
 **Images:** `1`, `2`, `3`
+
+
+## 📌 Notes
+
+Moving to beta 0.2
