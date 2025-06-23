@@ -110,6 +110,31 @@ For linux
 ```
 sudo apt install ffmpeg
 ```
+## 🏃 Usage
+
+
+Setting up your RTSP
+```
+rtsp_url = "rtsp://user:password@ip/path"
+
+```
+or file location
+
+```
+USE_VIDEO_FILE = True #Only if you're using local video source, otherwise leave it at off
+video_path = "Path_to_your_file"
+```
+OPENAI API
+```
+api_key = "Your_api_key"
+```
+And finally
+
+```
+python3 main.py
+```
+> [!Warning]
+> NEVER USE SUDO OR RUN IN ROOT.
 
 ---
 
