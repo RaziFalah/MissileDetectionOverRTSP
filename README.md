@@ -1,3 +1,5 @@
+Influenced by actions happening in residential areas in the middle east
+
 Version beta 0.2 phase 1
 
 > [!Warning]
